@@ -13,5 +13,5 @@
 
 # Project - Planningzilla
 
-[Backend repository](https://github.com/leoaguilars97/planningzilla-backend)
-[Frontend repository](https://github.com/leoaguilars97/planningzilla-frontend)
+* [Backend repository](https://github.com/leoaguilars97/planningzilla-backend)
+* [Frontend repository](https://github.com/leoaguilars97/planningzilla-frontend)
