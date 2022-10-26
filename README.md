@@ -10,3 +10,8 @@
 * [Week 8 excercises](./week%208/README.md)
 * [Week 9 excercises](./week%209/README.md)
 * [Week 10 excercises](./week%2010/README.md)
+
+# Project - Planningzilla
+
+[Backend repository](https://github.com/leoaguilars97/planningzilla-backend)
+[Frontend repository](https://github.com/leoaguilars97/planningzilla-frontend)
