@@ -1,2 +1,4 @@
-# core-code-upskilling-readme
-Code challenges and notes
+# Assignments
+
+## Week 1
+
